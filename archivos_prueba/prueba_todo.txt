@@ -1,0 +1,14 @@
+a = 1
+a = 2
+workspace
+z = 1 + 2
+clear
+l = 1 == 2
+load ./archivos_prueba/prueba.txt
+w = a + 2
+import ./librerias/libprueba.so
+x = suma_resta(a+b)
+import ./librerias/libprueba2.so
+j = divide_multiplica(a)
+workspace
+quit

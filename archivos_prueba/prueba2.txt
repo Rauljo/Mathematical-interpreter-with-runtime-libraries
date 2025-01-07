@@ -1,0 +1,3 @@
+b = 3 + 2
+load ./archivos_prueba/prueba3.txt
+d = 1 + 1
